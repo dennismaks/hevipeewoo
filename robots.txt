@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oopuziecia.xiecy.online/sitemap.xml
